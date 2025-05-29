@@ -2,7 +2,7 @@
 
 This is a **simple scientific calculator** built using **Python** and **NumPy** inside a **Jupyter Notebook**. It supports basic arithmetic operations with efficient NumPy methods.
 
-> ✨ Created by [Tanay Bhai](https://github.com/tanaygt)
+> ✨ Created by [Tanay Shrivastava](https://github.com/tanaygt)
 
 ---
 
